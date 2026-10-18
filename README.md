@@ -22,7 +22,7 @@
   <hr>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=DeshaniBandara&color=6e5494&style=for-the-badge" alt="Profile Views">
+    <img src="https://hits.sh/github.com/DeshaniBandara.svg?style=for-the-badge&label=Profile%20Views&color=6e5494&labelColor=555555" alt="Profile Views">
     <img src="https://img.shields.io/github/followers/DeshaniBandara?style=for-the-badge&logo=github&label=Followers&color=6e5494" alt="Followers">
     <img src="https://img.shields.io/github/stars/DeshaniBandara?style=for-the-badge&logo=github&label=Total%20Stars&color=ffd700" alt="Stars">
   </p>
